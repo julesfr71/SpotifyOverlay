@@ -1,0 +1,23 @@
+# Compilation PyInstaller
+build/
+dist/
+*.spec
+icon.ico
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sauvegardes et fichiers locaux
+*.bak
+pip_tried.json
+settings.json
+.spotify_cache
+
+# Éditeurs / système
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
