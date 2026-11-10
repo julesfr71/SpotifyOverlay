@@ -1,21 +1,51 @@
-MIT License
+LICENCE D'UTILISATION – SPOTIFY LYRICS OVERLAY
 
-Copyright (c) 2026 JulesFR
+Copyright (c) 2026 JulesFR. Tous droits réservés.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+En téléchargeant, copiant ou utilisant le logiciel « Spotify Lyrics Overlay »
+(le « Logiciel »), vous acceptez les conditions suivantes. Si vous ne les
+acceptez pas, n'utilisez pas le Logiciel.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. DROIT D'UTILISATION
+   Le Logiciel est fourni gratuitement. Vous êtes autorisé à l'installer et à
+   l'utiliser pour votre usage personnel et non commercial. Aucun droit de
+   propriété sur le Logiciel ne vous est transféré : il vous est concédé, et non
+   vendu.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. INTERDICTIONS
+   Sauf autorisation écrite préalable de l'auteur, et sauf dans la mesure où la
+   loi applicable l'autorise impérativement, il est interdit de :
+   - décompiler, désassembler, procéder à de l'ingénierie inverse ou tenter
+     d'extraire le code source du Logiciel ;
+   - modifier, adapter, traduire ou créer une œuvre dérivée du Logiciel ;
+   - supprimer ou altérer les mentions de copyright ou de licence ;
+   - vendre, louer, sous-licencier ou redistribuer le Logiciel, en tout ou
+     partie, sous quelque forme que ce soit.
+
+3. ABSENCE DE GARANTIE
+   LE LOGICIEL EST FOURNI « EN L'ÉTAT » ET « SELON DISPONIBILITÉ », SANS GARANTIE
+   D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, SANS S'Y LIMITER, LES
+   GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER, DE
+   FONCTIONNEMENT SANS ERREUR OU SANS INTERRUPTION, ET D'ABSENCE DE CONTREFAÇON.
+
+4. LIMITATION DE RESPONSABILITÉ
+   L'AUTEUR DÉCLINE TOUTE RESPONSABILITÉ POUR LES DOMMAGES DIRECTS OU INDIRECTS
+   (PERTE DE DONNÉES, DYSFONCTIONNEMENT, BLOCAGE OU SUSPENSION DE COMPTE,
+   DOMMAGE MATÉRIEL OU LOGICIEL, ETC.) RÉSULTANT DE L'UTILISATION OU DE
+   L'IMPOSSIBILITÉ D'UTILISER LE LOGICIEL, MÊME S'IL A ÉTÉ INFORMÉ DE LA
+   POSSIBILITÉ DE TELS DOMMAGES. VOUS UTILISEZ LE LOGICIEL À VOS PROPRES RISQUES.
+   Cette limitation s'applique dans toute la mesure permise par la loi
+   applicable.
+
+5. SERVICES TIERS
+   Le Logiciel s'appuie sur des services tiers (notamment l'API de Spotify et
+   LRCLIB) qui sont soumis à leurs propres conditions d'utilisation. Vous êtes
+   seul responsable du respect de ces conditions, de la création de votre propre
+   application Spotify et de l'usage de votre compte. Le Logiciel n'est ni
+   affilié, ni approuvé, ni parrainé par Spotify. « Spotify » est une marque de
+   ses propriétaires respectifs.
+
+6. RÉSILIATION
+   Cette licence prend fin automatiquement en cas de non-respect de l'une de ses
+   conditions. Vous devez alors cesser d'utiliser le Logiciel et en supprimer
+   toutes les copies.
